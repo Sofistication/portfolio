@@ -9,3 +9,12 @@
   width: 300px;
   height: 250px;
 }
+
+.skill-icon {
+  font-size: 75px;
+}
+
+.skill-list-item {
+  text-align: center;
+  margin: 20px;
+}
