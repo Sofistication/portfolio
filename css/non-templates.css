@@ -1,0 +1,20 @@
+/*.link-list-item {
+  background-color: red;
+  margin: 0 10px;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}*/
+.portfolio-img {
+  width: 300px;
+  height: 250px;
+}
+
+.skill-icon {
+  font-size: 75px;
+}
+
+.skill-list-item {
+  text-align: center;
+  margin: 20px;
+}
